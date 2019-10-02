@@ -1,0 +1,3 @@
+cbow是基于pytorch搭建的模型
+skip-gram是基于pytorch搭建的模型
+quick-skip-gram是基于pytorch搭建的模型，是对skip-gram的升级
