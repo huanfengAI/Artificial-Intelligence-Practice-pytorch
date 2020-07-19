@@ -4,7 +4,7 @@
     <td>本代码是专栏<a href="https://learning.snssdk.com/feoffline/toutiao_wallet_bundles/toutiao_learning_wap/online/album_detail.html?content_id=6739390209139409155">人工智能实践的实现</a></td>
   </tr>
    <tr>
-     <td >CSDN博客开通，欢迎关注<a href="https://blog.csdn.net/huanfeng_AI"></a></td>
+     <td >CSDN博客开通，欢迎关注<a href="https://blog.csdn.net/huanfeng_AI">CSDN地址</a></td>
   </tr>
 </table>
 <table>
