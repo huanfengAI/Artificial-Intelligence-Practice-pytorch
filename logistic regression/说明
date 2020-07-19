@@ -1,0 +1,7 @@
+sms_spam是数据，其中sms_train中是训练集，而sms_test是测试集
+先执行data.py此时将训练集数据分为文本文件email.txt，然后将标签放在labels.txt
+
+数据完成之后，执行SVM.py
+此时将训练集按照8:2分为训练集和测试集，然后完成训练和测试
+最终进行未知样本的预测，结果生成key.csv文件
+

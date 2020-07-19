@@ -1,0 +1,13 @@
+config包含两个配置文件，一个是训练bert相关的参数，另外一个是情感分类微调的参数
+dataset包含三个文件，wiki_dataset是用于训练bert，sentiment_dataset是情感分类，inference_dataloader用于可视化
+metrics用于最佳的参数选择
+model是有三个文件bert_model用于bert训练，剩下两个用于微调，一个是使用cls，另外一个是使用第二个layer的所有输出
+output_wiki_bert用于保存训练的bert模型
+pretraining_data用于存储数据，一个是训练的数据，另外一个是微调的数据
+sentiment_state用于保存微调的模型
+attention_visualization用于显示注意力机制
+pre_training用于训练bert
+sentiment_training用于训练情感分类的模型
+sentiment_Inference用于测试情感分类模型
+
+
